@@ -1,2 +1,2 @@
 # JsChain
-A simple JavaScript blockchain implementation
+Simple Bitcoin-like blockchain structure and cryptocurrency. Written in JavaScript
